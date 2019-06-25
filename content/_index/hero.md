@@ -6,7 +6,7 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
+title = "Appzar Theme"
 subtitle = "Showcase your next project"
 
 [header]
@@ -28,7 +28,7 @@ subtitle = "Showcase your next project"
   color = "primary"
 
 [[buttons]]
-  text = "Button"
+  text = "Hola fede boton"
   url = "#"
   color = "success"
 +++
