@@ -15,3 +15,5 @@ fields:
   config:
     maxSize: 250
   label: image file
+pages:
+- content/posts/post1.md
