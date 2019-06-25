@@ -5,3 +5,13 @@ fields:
 - type: boolean
   name: headless
   label: headless
+- name: texto
+  type: text
+  config:
+    required: false
+  label: texto
+- name: image_file
+  type: file
+  config:
+    maxSize: 250
+  label: image file
