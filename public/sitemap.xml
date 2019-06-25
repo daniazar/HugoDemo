@@ -3,39 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/posts/firstpost/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/posts/firstpost/</loc>
+>>>>>>> master
     <lastmod>2019-06-25T18:22:32-03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/</loc>
+>>>>>>> master
     <lastmod>2019-06-25T18:22:32-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/posts/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/posts/</loc>
+>>>>>>> master
     <lastmod>2019-06-25T18:22:32-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/about/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/about/</loc>
+>>>>>>> master
     <lastmod>2019-06-25T18:22:32-03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/</loc>
+>>>>>>> master
     <lastmod>2019-06-25T18:22:32-03:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/categories/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/categories/</loc>
+>>>>>>> master
     <priority>0</priority>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://daniazar.github.io/HugoDemo/tags/</loc>
+=======
+    <loc>https://daniazar.github.io/HugoDemo/public/tags/</loc>
+>>>>>>> master
     <priority>0</priority>
   </url>
   
