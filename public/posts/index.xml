@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Okkur - Syna</title>
+    <link>https://daniazar.github.io/HugoDemo/public/posts/</link>
+    <description>Recent content in Posts on Okkur - Syna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jun 2019 18:03:18 -0300</lastBuildDate>
+    
+	<atom:link href="https://daniazar.github.io/HugoDemo/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstpost</title>
+      <link>https://daniazar.github.io/HugoDemo/public/posts/firstpost/</link>
+      <pubDate>Tue, 25 Jun 2019 18:03:18 -0300</pubDate>
+      
+      <guid>https://daniazar.github.io/HugoDemo/public/posts/firstpost/</guid>
+      <description>este es un post</description>
+    </item>
+    
+  </channel>
+</rss>
