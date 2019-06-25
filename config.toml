@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://daniazar.github.io/HugoDemo/"
+baseurl = "https://daniazar.github.io/HugoDemo/public"
 languageCode = "en-us"
 title = "Okkur - Syna"
 theme = "syna"
